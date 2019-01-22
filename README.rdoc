@@ -1,1 +1,1 @@
-This is the repository of the Finance Tracker app
+Finance tracker is a stock tracking app developed using Ruby on Rails. It is a rails application developed to help the users to keep their of their stocks and decide whether to invest in the stock. Devise gem is used for setting up the authentication system. So, once you are logged in You can simply search for any stock and add it to your porfolio to start tracking it. Additionally, users can add others registered members on the apps as their friends and view their profile and add additional stocks of their choice.
